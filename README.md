@@ -1,9 +1,4 @@
-# Matemática 4 - Análisis Matemático III — Primer cuatrimestre de 2012
-
-## Equipo docente
-
-- **Clases teóricas:** Diego Rial, Nicolas Saintier
-- **Clases prácticas:** Sigrid Heineken, Javier Gargiulo Acea, Nicolas Saintier
+# Matemática 4 — Primer cuatrimestre de 2012
 
 ## Prácticas
 
